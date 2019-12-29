@@ -17,7 +17,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 - [Twitter](#twitter)
 
 ## Culture
-* [Principles Of Chaos Engineering](http://principlesofchaos.org/)
+* [Principles Of Chaos Engineering](http://principlesofchaos.org/) ✅
 * [Chaos Community](http://chaos.community/)
 * [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
 * [O'Reilly Velocity San Jose 2017: Precision Chaos](https://www.youtube.com/watch?v=C11LNUEaHuo)
@@ -96,7 +96,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [The InfoQ eMag: Chaos Engineering](https://www.infoq.com/minibooks/emag-chaos-engineering)
 * [Learning Chaos Engineering](http://shop.oreilly.com/product/0636920251897.do)
-
+* [Drift into Failure](https://www.crcpress.com/Drift-into-Failure-From-Hunting-Broken-Components-to-Understanding-Complex/Dekker/p/book/9781409422211)
+* [Release it! 2nd Edition](https://www.oreilly.com/library/view/release-it-2nd/9781680504552/)
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
 * [Your First Chaos Experiment](https://blog.gremlininc.com/your-first-chaos-experiment-321ec4468bce)
@@ -195,6 +196,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
 * [Conf42.com: Chaos Engineering](https://conf42.com) - Chaos Engineering for practitioners and adopters - London UK, 23 Jan 2020.
 
+## Notable Conference Videos
+* [Chaos Conf 2018](https://www.youtube.com/watch?v=St1GnZg4N6Q&t=1s) - Mark McBride: "Chaos Tuning Envoy Proxy", 4 Oct 2018 ✅
+* [AWS re:Invent 2018](https://www.youtube.com/watch?v=B1nUzbuVEUs&t=0s) - Breaking Containers: Chaos Engineering for Modern Applications on AWS, 27 Nov 2018 ✅
+
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
 * [Chaos Engineering LinkedIn Group](https://www.linkedin.com/groups/7057761)
@@ -205,16 +210,16 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Toolkit Slack Community](https://join.chaostoolkit.org)
 
 ## Twitter
-* [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
-* [Casey Rosenthal](https://twitter.com/caseyrosenthal)
-* [Mathias Lafeldt](https://twitter.com/mlafeldt)
-* [Nora Jones](https://twitter.com/nora_js)
-* [Tammy Bütow](https://twitter.com/tammybutow)
-* [Bruce Wong](https://twitter.com/bruce_m_wong)
-* [Kolton Andrus](https://twitter.com/koltonandrus)
-* [Lorin Hochstein](https://twitter.com/lhochstein)
-* [Peter Alvaro](https://twitter.com/palvaro)
-* [John Allspaw](https://twitter.com/allspaw)
+* [Aaron Blohowiak](https://twitter.com/aaronblohowiak) ✅
+* [Casey Rosenthal](https://twitter.com/caseyrosenthal) ✅
+* [Mathias Lafeldt](https://twitter.com/mlafeldt) ✅
+* [Nora Jones](https://twitter.com/nora_js) ✅
+* [Tammy Bütow](https://twitter.com/tammybutow) ✅
+* [Bruce Wong](https://twitter.com/bruce_m_wong) ✅
+* [Kolton Andrus](https://twitter.com/koltonandrus) ✅
+* [Lorin Hochstein](https://twitter.com/lhochstein) ✅
+* [Peter Alvaro](https://twitter.com/palvaro) ✅
+* [John Allspaw](https://twitter.com/allspaw) ✅
 * [Charles Torre](https://twitter.com/carmine007)
 * [Russ Miles](https://twitter.com/russmiles)
 * [Aaron Rinehart](https://twitter.com/aaronrinehart)
@@ -223,6 +228,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Ana Medina](https://twitter.com/ana_m_medina)
 * [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
 * [Gunnar Grosch](https://twitter.com/gunnargrosch)
+* [Peter Bailis](https://twitter.com/pbailis) ✅
+* [Adrian Cockcroft](https://twitter.com/adrianco) ✅
 
 ## Contributing
 
